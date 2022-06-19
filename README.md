@@ -52,10 +52,6 @@ Apart from that, I am interested in certain things which include but are not lim
          src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="Rdfalmeida's LinkedIn" height="30"/>
       </a>
-      <a href="https://mailto:rdfalmeida@proton.me" target="blank"><img align="center"
-         src="https://img.shields.io/badge/Mail-EA4335.svg?style=for-the-badge&logo=mail&logoColor=white"
-         alt="Rdfalmeida's email" height="30"/>
-      </a>
       <a href="https://instagram.com/rdfalmeida100" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="Rdfalmeida's Instagram" height="30"/>
