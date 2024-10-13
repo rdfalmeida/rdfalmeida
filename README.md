@@ -1,14 +1,15 @@
 <h1 align="center">I'm Rodolfo Almeida, also known as rdfalmeida/rdf<br><br>Hello, my friend, stay a while and listen.</h1>
 
-I come from a very diverse background and learned to communicate and with all kinds of people in all types of environment which allowed me to have a plethora of amazing experiences. New ones still keep coming and I love it.
+I bring a diverse background that spans various roles, from education and sales to legal practice and management, along with ongoing studies in Law, Strategy, Project Management, Economics, and Software Engineering. I thrive on continuous learning, having developed skills in leadership, emotional intelligence, teamwork, and adaptability.
 
-From living in different places to teaching teenagers, to being a salesman (sandals, and for a brief period, software), to washing dishes in Fernando de Noronha (awesome experience!), to translating, to doing volunteer work, to managing a motorparts shop in a small countryside town, to working as a lawyer and also as a notary officer, I still love living and seeing the new.
+My experiences have instilled in me a keen sense of adaptability and antifragility, enabling me to navigate diverse environments and embrace new challenges enthusiastically. I'm an approachable, disciplined, and results-driven individual, adept at fostering collaboration and maintaining focus on objectives.
 
-In this meantime among other things I have studied Law, Strategy, Management, Economics, and recently I have started IT with Software Engineering. Did I mention that learning is kind of my thing? I learned leadership, emotional intelligence, teamwork, discipline, adaptability, and antifragility as well.
-
-I am an easy-going, filled with seriousness, consistent, practical person and like to get along with everyone, and also to have some time for myself.
-
-Apart from that, I am interested in certain things which include but are not limited to (oh it's the legalese again haha) tabletop Role-Playing Games, martial arts, having contact with nature, fraternizing with my people, and thinking how to live better.
+Knowledge areas
+* Project Management
+* People Management
+* Customer Support
+* ITIL
+* ITSM
  
 *A versão em português desse texto encontra-se disponível no meu LinkedIn abaixo.
    
@@ -44,7 +45,7 @@ Apart from that, I am interested in certain things which include but are not lim
     </a>
   </p>
     
-  ### 😎 you can reach me by:
+  ### How you can reach me:
   <div>
     <p align="center">
       <br/>
