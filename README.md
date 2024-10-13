@@ -10,6 +10,8 @@ Knowledge areas
 * Customer Support
 * ITIL
 * ITSM
+* Software Development
+* Quality Assurance
  
 *A versão em português desse texto encontra-se disponível no meu LinkedIn abaixo.
    
